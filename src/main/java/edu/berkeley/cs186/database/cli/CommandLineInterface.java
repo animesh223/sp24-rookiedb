@@ -14,6 +14,7 @@ import edu.berkeley.cs186.database.memory.ClockEvictionPolicy;
 import edu.berkeley.cs186.database.table.Record;
 import edu.berkeley.cs186.database.table.Schema;
 import edu.berkeley.cs186.database.table.Table;
+import edu.berkeley.cs186.database.table.Record;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
